@@ -1,0 +1,20 @@
+.bg-Clr {
+    background: linear-gradient(90deg, #F40AA7 0%, #F3B335 100%) !important;
+}
+
+.header {
+    width: 100%;
+    background-color: #f8f9fa;
+    padding: 10px 20px;
+    border-bottom: 1px solid #dee2e6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header p {
+    font-size: 16px;
+    color: #333;
+    margin: 0;
+    margin-left: auto;
+}

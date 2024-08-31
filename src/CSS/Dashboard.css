@@ -1,0 +1,45 @@
+
+
+.dashboard-content {
+    flex-grow: 1;
+    padding: 20px;
+}
+
+.dashboard {
+    display: flex;
+    min-height: 100% !important;
+}
+
+.card {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    transition: all 1s;
+}
+
+.card-title {
+    font-size: 1.2rem;
+    transition: all 1s;
+    color: #555;
+}
+.card-title:hover {
+    font-size: 1.2rem;
+    transition: all 1s;
+    color: #fff;
+}
+
+.card-text {
+    font-size: 2rem;
+    transition: all 1s;
+    color: #000;
+}
+.card-text:hover {
+    font-size: 2rem;
+    color: #fff;
+    transition: all 1s;
+
+}
+
+.card:hover{
+    background-color: rgb(207, 63, 173);
+    transition: all 1s;
+}
